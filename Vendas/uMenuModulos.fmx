@@ -1,0 +1,242 @@
+object frmMenuModulos: TfrmMenuModulos
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 515
+  ClientWidth = 602
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  OnCreate = FormCreate
+  DesignerMasterStyle = 3
+  object ScrollBox1: TScrollBox
+    Align = Client
+    Size.Width = 352.000000000000000000
+    Size.Height = 467.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    Viewport.Width = 352.000000000000000000
+    Viewport.Height = 467.000000000000000000
+    object Layout1: TLayout
+      Align = Top
+      Size.Width = 352.000000000000000000
+      Size.Height = 113.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 3
+      object btnVendas: TButton
+        Align = Client
+        StyledSettings = [Family]
+        Margins.Left = 20.000000000000000000
+        Margins.Top = 15.000000000000000000
+        Margins.Right = 20.000000000000000000
+        Margins.Bottom = 15.000000000000000000
+        Size.Width = 312.000000000000000000
+        Size.Height = 83.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 1
+        Text = 'VENDAS'
+        TextSettings.Font.Size = 60.000000000000000000
+        TextSettings.Font.StyleExt = {00070000000000000004000000}
+        TextSettings.FontColor = claWhite
+        TintColor = xFF087FC8
+        OnClick = btnVendasClick
+      end
+    end
+    object Layout2: TLayout
+      Align = Top
+      Position.Y = 339.000000000000000000
+      Size.Width = 352.000000000000000000
+      Size.Height = 113.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 2
+      object Button3: TButton
+        Align = Client
+        StyledSettings = [Family]
+        Margins.Left = 20.000000000000000000
+        Margins.Top = 15.000000000000000000
+        Margins.Right = 20.000000000000000000
+        Margins.Bottom = 15.000000000000000000
+        Size.Width = 312.000000000000000000
+        Size.Height = 83.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 1
+        Text = 'CADASTROS'
+        TextSettings.Font.Size = 50.000000000000000000
+        TextSettings.Font.StyleExt = {00070000000000000004000000}
+        TextSettings.FontColor = claWhite
+        TintColor = xFF087FC8
+        OnClick = btnVendasClick
+      end
+    end
+    object Layout3: TLayout
+      Align = Top
+      Position.Y = 113.000000000000000000
+      Size.Width = 352.000000000000000000
+      Size.Height = 113.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 0
+      object Button1: TButton
+        Align = Client
+        StyledSettings = [Family]
+        Margins.Left = 20.000000000000000000
+        Margins.Top = 15.000000000000000000
+        Margins.Right = 20.000000000000000000
+        Margins.Bottom = 15.000000000000000000
+        Size.Width = 312.000000000000000000
+        Size.Height = 83.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 1
+        Text = 'FINANCEIRO'
+        TextSettings.Font.Size = 50.000000000000000000
+        TextSettings.Font.StyleExt = {00070000000000000004000000}
+        TextSettings.FontColor = claWhite
+        TintColor = xFF087FC8
+        OnClick = btnVendasClick
+      end
+    end
+    object Layout4: TLayout
+      Align = Top
+      Position.Y = 226.000000000000000000
+      Size.Width = 352.000000000000000000
+      Size.Height = 113.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 1
+      object Button2: TButton
+        Align = Client
+        StyledSettings = [Family]
+        Margins.Left = 20.000000000000000000
+        Margins.Top = 15.000000000000000000
+        Margins.Right = 20.000000000000000000
+        Margins.Bottom = 15.000000000000000000
+        Size.Width = 312.000000000000000000
+        Size.Height = 83.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 1
+        Text = 'ESTOQUE'
+        TextSettings.Font.Size = 60.000000000000000000
+        TextSettings.Font.StyleExt = {00070000000000000004000000}
+        TextSettings.FontColor = claWhite
+        TintColor = xFF087FC8
+        OnClick = btnVendasClick
+      end
+    end
+  end
+  object ToolBar1: TToolBar
+    Size.Width = 602.000000000000000000
+    Size.Height = 48.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 2
+    TintColor = xFF087FC8
+    object btnMultiview: TSpeedButton
+      Align = Left
+      IconTintColor = claWhite
+      Size.Width = 48.000000000000000000
+      Size.Height = 48.000000000000000000
+      Size.PlatformDefault = False
+      StyleLookup = 'drawertoolbutton'
+      Text = 'btnMultiview'
+      Visible = False
+    end
+    object lblNome: TLabel
+      Align = Client
+      StyledSettings = [Family, Size, Style]
+      Size.Width = 602.000000000000000000
+      Size.Height = 48.000000000000000000
+      Size.PlatformDefault = False
+      TextSettings.FontColor = claWhite
+      TextSettings.HorzAlign = Center
+      Text = 'Nome'
+      TabOrder = 0
+    end
+  end
+  object mvMenu: TMultiView
+    MasterButton = btnMultiview
+    Mode = Panel
+    Size.Width = 250.000000000000000000
+    Size.Height = 467.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 3
+    object ListBox1: TListBox
+      Align = Client
+      Size.Width = 250.000000000000000000
+      Size.Height = 467.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 0
+      DisableFocusEffect = True
+      DefaultItemStyles.ItemStyle = ''
+      DefaultItemStyles.GroupHeaderStyle = ''
+      DefaultItemStyles.GroupFooterStyle = ''
+      Viewport.Width = 250.000000000000000000
+      Viewport.Height = 467.000000000000000000
+      object lbghPessoas: TListBoxGroupHeader
+        Size.Width = 250.000000000000000000
+        Size.Height = 30.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 10
+        Text = 'Pessoas'
+      end
+      object lbiClientes: TListBoxItem
+        Position.Y = 30.000000000000000000
+        TabOrder = 7
+        Text = 'Clientes'
+        OnClick = lbiClientesClick
+      end
+      object lbiFornecedores: TListBoxItem
+        Position.Y = 74.000000000000000000
+        TabOrder = 6
+        Text = 'Fornecedores'
+        OnClick = lbiFornecedoresClick
+      end
+      object lbiFuncionarios: TListBoxItem
+        Position.Y = 118.000000000000000000
+        TabOrder = 5
+        Text = 'Funcion'#225'rios'
+      end
+      object lbiUsuarios: TListBoxItem
+        Position.Y = 162.000000000000000000
+        TabOrder = 4
+        Text = 'Usu'#225'rios'
+        OnClick = lbiUsuariosClick
+      end
+      object lbghProdutos: TListBoxGroupHeader
+        Position.Y = 206.000000000000000000
+        Size.Width = 250.000000000000000000
+        Size.Height = 30.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 9
+        Text = 'Produtos / Servi'#231'os'
+      end
+      object ListBoxItem4: TListBoxItem
+        Position.Y = 236.000000000000000000
+        TabOrder = 3
+        Text = 'Produtos'
+        OnClick = ListBoxItem4Click
+      end
+      object lbiCategorias: TListBoxItem
+        Position.Y = 280.000000000000000000
+        TabOrder = 2
+        Text = 'Categorias'
+        OnClick = lbiCategoriasClick
+      end
+      object lbiEntradaSaida: TListBoxItem
+        Position.Y = 324.000000000000000000
+        TabOrder = 1
+        Text = 'Entradas / Sa'#237'das'
+      end
+      object lbghParametros: TListBoxGroupHeader
+        Position.Y = 368.000000000000000000
+        Size.Width = 250.000000000000000000
+        Size.Height = 30.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 8
+        Text = 'Par'#226'metros'
+      end
+      object lbiEmpresa: TListBoxItem
+        Position.Y = 398.000000000000000000
+        TabOrder = 0
+        Text = 'Empresa'
+        OnClick = lbiEmpresaClick
+      end
+    end
+  end
+end

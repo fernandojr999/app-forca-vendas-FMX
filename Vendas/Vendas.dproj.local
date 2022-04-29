@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/07/15 21:32:21.000.937,=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/07/15 21:34:20.000.210,C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\uLogin.fmx=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2019/07/15 21:34:20.000.210,C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\uLogin.pas=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/07/15 22:11:01.000.276,=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/07/15 22:11:17.000.540,C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\uMenuModulos.fmx=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2019/07/15 22:11:17.000.540,C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\uMenuModulos.pas=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/07/15 22:27:28.000.859,C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Vendas.dproj=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/07/16 07:23:00.000.608,=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Unit2.pas</Transaction>
+    <Transaction>2019/07/16 07:23:15.000.343,C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Unit2.pas=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\uVendas.pas</Transaction>
+    <Transaction>2019/07/16 07:23:15.000.343,C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Unit2.fmx=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\uVendas.fmx</Transaction>
+    <Transaction>2019/07/16 07:23:41.000.748,=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Unit3.pas</Transaction>
+    <Transaction>2019/07/16 07:23:53.000.903,C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Unit3.fmx=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\uPadrao.fmx</Transaction>
+    <Transaction>2019/07/16 07:23:53.000.903,C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Unit3.pas=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\uPadrao.pas</Transaction>
+    <Transaction>2019/07/16 07:36:39.000.388,C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\uVendas.fmx=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\uOutros.fmx</Transaction>
+    <Transaction>2019/07/16 07:36:39.000.388,C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\uVendas.pas=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\uOutros.pas</Transaction>
+    <Transaction>2019/07/16 07:36:49.000.256,=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Unit1.pas</Transaction>
+    <Transaction>2019/07/16 07:37:04.000.181,=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Unit1.pas</Transaction>
+    <Transaction>2019/07/16 07:37:13.000.488,C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Unit1.pas=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\uVendas.pas</Transaction>
+    <Transaction>2019/07/16 07:37:13.000.488,C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Unit1.fmx=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\uVendas.fmx</Transaction>
+    <Transaction>2019/07/16 19:13:27.000.771,=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Unit1.pas</Transaction>
+    <Transaction>2019/07/16 19:14:13.000.570,C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\uUtils.pas=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Unit1.pas</Transaction>
+    <Transaction>2019/07/16 19:14:13.000.570,C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\uUtils.dfm=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Unit1.dfm</Transaction>
+    <Transaction>2019/07/17 07:01:21.000.957,=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Unit1.pas</Transaction>
+    <Transaction>2019/07/17 07:01:54.000.241,C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Manager\uConexao.fmx=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Unit1.fmx</Transaction>
+    <Transaction>2019/07/17 07:01:54.000.241,C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Manager\uConexao.pas=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Unit1.pas</Transaction>
+    <Transaction>2019/07/17 07:02:15.000.346,C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Manager\dasdas.fmx=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Manager\uConexao.fmx</Transaction>
+    <Transaction>2019/07/17 07:02:15.000.346,C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Manager\dasdas.pas=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Manager\uConexao.pas</Transaction>
+    <Transaction>2019/07/17 07:02:23.000.643,C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Manager\dasdas.pas=</Transaction>
+    <Transaction>2019/07/17 07:02:28.000.738,C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\uOutros.pas=</Transaction>
+    <Transaction>2019/07/17 07:02:59.000.074,=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Unit2.pas</Transaction>
+    <Transaction>2019/07/17 07:12:07.000.407,C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Conexao\uConexaoExterna.dfm=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Unit2.dfm</Transaction>
+    <Transaction>2019/07/17 07:12:07.000.407,C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Conexao\uConexaoExterna.pas=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Unit2.pas</Transaction>
+    <Transaction>2019/07/20 16:30:29.000.461,=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Armazem\uCadProdutos.pas</Transaction>
+    <Transaction>2019/10/07 21:31:41.000.933,=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Unit1.pas</Transaction>
+    <Transaction>2019/10/07 21:32:22.000.550,C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Pessoas\uCadPessoas.fmx=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Unit1.fmx</Transaction>
+    <Transaction>2019/10/07 21:32:22.000.550,C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Pessoas\uCadPessoas.pas=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Unit1.pas</Transaction>
+    <Transaction>2019/10/07 21:43:36.000.508,=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Unit1.pas</Transaction>
+    <Transaction>2019/10/07 21:43:57.000.450,C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Vendas\uPedidos.pas=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Unit1.pas</Transaction>
+    <Transaction>2019/10/07 21:43:57.000.450,C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Vendas\uPedidos.fmx=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Unit1.fmx</Transaction>
+    <Transaction>2019/10/08 23:03:02.000.852,=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Unit1.pas</Transaction>
+    <Transaction>2019/10/08 23:08:37.000.561,C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Unit1.fmx=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Conexao\uConfiguracao.fmx</Transaction>
+    <Transaction>2019/10/08 23:08:37.000.561,C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Unit1.pas=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Conexao\uConfiguracao.pas</Transaction>
+    <Transaction>2019/10/09 12:27:07.000.933,=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Unit1.pas</Transaction>
+    <Transaction>2019/10/09 12:27:32.000.846,C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Unit1.fmx=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Armazem\uCadCategorias.fmx</Transaction>
+    <Transaction>2019/10/09 12:27:32.000.845,C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Unit1.pas=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Armazem\uCadCategorias.pas</Transaction>
+    <Transaction>2019/10/14 19:35:05.000.796,=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Unit1.pas</Transaction>
+    <Transaction>2019/10/14 19:37:22.000.855,C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Pessoas\uCadUsuarios.fmx=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Unit1.fmx</Transaction>
+    <Transaction>2019/10/14 19:37:22.000.855,C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Pessoas\uCadUsuarios.pas=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Unit1.pas</Transaction>
+    <Transaction>2019/10/15 22:14:16.000.835,=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Unit1.pas</Transaction>
+    <Transaction>2019/10/15 22:15:59.000.476,C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\pesquisa\uPesquisaPessoa.fmx=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Unit1.fmx</Transaction>
+    <Transaction>2019/10/15 22:15:59.000.476,C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\pesquisa\uPesquisaPessoa.pas=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Unit1.pas</Transaction>
+    <Transaction>2019/10/16 07:18:14.000.935,=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Unit1.pas</Transaction>
+    <Transaction>2019/10/16 07:18:55.000.225,C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Unit1.pas=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\financeiro\uCondicoesPagamento.pas</Transaction>
+    <Transaction>2019/10/16 07:18:55.000.225,C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Unit1.fmx=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\financeiro\uCondicoesPagamento.fmx</Transaction>
+    <Transaction>2019/10/16 07:19:10.000.746,=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Unit2.pas</Transaction>
+    <Transaction>2019/10/16 07:19:24.000.091,C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Unit2.fmx=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\financeiro\uFormasPagamentos.fmx</Transaction>
+    <Transaction>2019/10/16 07:19:24.000.091,C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Unit2.pas=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\financeiro\uFormasPagamentos.pas</Transaction>
+    <Transaction>2019/10/16 07:24:20.000.944,=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Unit3.pas</Transaction>
+    <Transaction>2019/10/16 07:24:44.000.817,C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Unit3.pas=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\pesquisa\uPesquisaCondicaoPagamento.pas</Transaction>
+    <Transaction>2019/10/16 07:24:44.000.817,C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Unit3.fmx=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\pesquisa\uPesquisaCondicaoPagamento.fmx</Transaction>
+    <Transaction>2019/10/16 07:24:58.000.454,=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Unit4.pas</Transaction>
+    <Transaction>2019/10/16 07:25:17.000.012,C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Unit4.fmx=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\pesquisa\uPesquisaFormaPagamento.fmx</Transaction>
+    <Transaction>2019/10/16 07:25:17.000.012,C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\Unit4.pas=C:\Users\55479\Documents\Embarcadero\Studio\Projects\Vendas\pesquisa\uPesquisaFormaPagamento.pas</Transaction>
+    <Transaction>2020/03/20 13:36:58.000.905,=C:\Delphi\Projetos\Vendas\Unit1.pas</Transaction>
+    <Transaction>2020/03/20 13:37:45.000.376,C:\Delphi\Projetos\Vendas\Unit1.fmx=C:\Delphi\Projetos\Vendas\uEmpresa.fmx</Transaction>
+    <Transaction>2020/03/20 13:37:45.000.376,C:\Delphi\Projetos\Vendas\Unit1.pas=C:\Delphi\Projetos\Vendas\uEmpresa.pas</Transaction>
+    <Transaction>2020/03/23 11:50:15.000.402,C:\Delphi\Projetos\Vendas\uUtils.pas=</Transaction>
+    <Transaction>2020/03/23 11:51:46.000.261,=C:\Delphi\Projetos\Vendas\Unit1.pas</Transaction>
+    <Transaction>2020/03/23 11:55:07.000.412,C:\Delphi\Projetos\Vendas\Unit1.pas=C:\Delphi\Projetos\Vendas\uFMXUtils.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile Android=""/>
+	</ActiveMobileDevice>
+</BorlandProject>

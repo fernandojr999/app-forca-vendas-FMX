@@ -1,0 +1,4 @@
+inherited frmPadrao1: TfrmPadrao1
+  Caption = 'frmPadrao1'
+  DesignerMasterStyle = 3
+end

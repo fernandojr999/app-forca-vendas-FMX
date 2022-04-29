@@ -1,0 +1,15 @@
+﻿[frmCadProdutos.fdmProdutos]
+Visible=False
+
+[frmCadProdutos.fdmCategorias]
+Visible=False
+
+[frmCadPessoas.fdmPessoas]
+Visible=False
+
+[frmCategorias.fdmCategorias]
+Visible=False
+
+[frmCadUsuarios.fdmUsuarios]
+Visible=False
+

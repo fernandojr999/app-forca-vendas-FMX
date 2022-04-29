@@ -1,0 +1,67 @@
+unit uCondicoesPagamento;
+
+interface
+
+uses
+  System.SysUtils, System.Types, System.UITypes, System.Classes, System.Variants, 
+  FMX.Types, FMX.Graphics, FMX.Controls, FMX.Forms, FMX.Dialogs, FMX.StdCtrls,
+  uPadrao, FMX.Layouts, FMX.Controls.Presentation, FMX.ListView.Types,
+  FMX.ListView.Appearances, FMX.ListView.Adapters.Base, FMX.EditBox,
+  FMX.NumberBox, FMX.Objects, FMX.ListView, FMX.Edit, FMX.TabControl;
+
+type
+  TfrmCondicaoPagamento = class(TfrmPadrao)
+    Label5: TLabel;
+    Layout1: TLayout;
+    Layout2: TLayout;
+    tcGeral: TTabControl;
+    tiListView: TTabItem;
+    Layout3: TLayout;
+    Rectangle1: TRectangle;
+    GridPanelLayout1: TGridPanelLayout;
+    Edit1: TEdit;
+    Layout4: TLayout;
+    SpeedButton1: TSpeedButton;
+    lvProdutos: TListView;
+    Image4: TImage;
+    tiCadastro: TTabItem;
+    Layout5: TLayout;
+    Rectangle2: TRectangle;
+    Layout6: TLayout;
+    lblNomeProduto: TLabel;
+    edtNome: TEdit;
+    GridPanelLayout3: TGridPanelLayout;
+    Layout10: TLayout;
+    Label1: TLabel;
+    btnSalvar: TImage;
+    Layout11: TLayout;
+    Label3: TLabel;
+    btnExcluir: TImage;
+    Layout12: TLayout;
+    Label4: TLabel;
+    Image1: TImage;
+    Layout7: TLayout;
+    Label2: TLabel;
+    NumberBox1: TNumberBox;
+    procedure FormCreate(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  frmCondicaoPagamento: TfrmCondicaoPagamento;
+
+implementation
+
+{$R *.fmx}
+
+procedure TfrmCondicaoPagamento.FormCreate(Sender: TObject);
+begin
+  inherited;
+  tcGeral.ActiveTab := tiListView;
+  tcGeral.TabPosition := TTabPosition.None;
+end;
+
+end.

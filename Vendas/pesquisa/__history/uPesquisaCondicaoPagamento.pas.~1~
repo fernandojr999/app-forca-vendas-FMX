@@ -1,0 +1,25 @@
+unit uPesquisaCondicaoPagamento;
+
+interface
+
+uses
+  System.SysUtils, System.Types, System.UITypes, System.Classes, System.Variants, 
+  FMX.Types, FMX.Graphics, FMX.Controls, FMX.Forms, FMX.Dialogs, FMX.StdCtrls,
+  uPadrao, FMX.Layouts, FMX.Controls.Presentation;
+
+type
+  TfrmPadrao3 = class(TfrmPadrao)
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  frmPadrao3: TfrmPadrao3;
+
+implementation
+
+{$R *.fmx}
+
+end.

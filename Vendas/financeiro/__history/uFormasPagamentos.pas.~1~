@@ -1,0 +1,25 @@
+unit uFormasPagamentos;
+
+interface
+
+uses
+  System.SysUtils, System.Types, System.UITypes, System.Classes, System.Variants, 
+  FMX.Types, FMX.Graphics, FMX.Controls, FMX.Forms, FMX.Dialogs, FMX.StdCtrls,
+  uPadrao, FMX.Layouts, FMX.Controls.Presentation;
+
+type
+  TfrmPadrao2 = class(TfrmPadrao)
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  frmPadrao2: TfrmPadrao2;
+
+implementation
+
+{$R *.fmx}
+
+end.

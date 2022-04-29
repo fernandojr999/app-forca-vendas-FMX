@@ -1,0 +1,119 @@
+inherited frmPesquisaCondicoesPagamento: TfrmPesquisaCondicoesPagamento
+  Caption = 'frmPesquisaCondicoesPagamento'
+  DesignerMasterStyle = 3
+  inherited tbControle: TToolBar
+    object Label5: TLabel
+      Align = Contents
+      StyledSettings = [Family, Size, Style]
+      Size.Width = 394.000000000000000000
+      Size.Height = 48.000000000000000000
+      Size.PlatformDefault = False
+      TextSettings.FontColor = claWhite
+      TextSettings.HorzAlign = Center
+      Text = 'CONDI'#199#213'ES PAGAMENTO'
+      TabOrder = 0
+    end
+  end
+  inherited ltGeral: TLayout
+    object Layout1: TLayout
+      Align = Client
+      Size.Width = 394.000000000000000000
+      Size.Height = 405.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 2
+      object lvPessoas: TListView
+        ItemAppearanceClassName = 'TImageListItemBottomDetailAppearance'
+        ItemEditAppearanceClassName = 'TImageListItemBottomDetailShowCheckAppearance'
+        HeaderAppearanceClassName = 'TListHeaderObjects'
+        FooterAppearanceClassName = 'TListHeaderObjects'
+        Align = Client
+        Size.Width = 394.000000000000000000
+        Size.Height = 345.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 1
+      end
+      object Layout3: TLayout
+        Align = Top
+        Size.Width = 394.000000000000000000
+        Size.Height = 60.000000000000000000
+        Size.PlatformDefault = False
+        TabOrder = 0
+        object Rectangle1: TRectangle
+          Align = Client
+          Fill.Color = claWhite
+          Margins.Left = 10.000000000000000000
+          Margins.Top = 10.000000000000000000
+          Margins.Right = 10.000000000000000000
+          Margins.Bottom = 10.000000000000000000
+          Size.Width = 374.000000000000000000
+          Size.Height = 40.000000000000000000
+          Size.PlatformDefault = False
+          Stroke.Color = claNull
+          XRadius = 20.000000000000000000
+          YRadius = 20.000000000000000000
+          object GridPanelLayout1: TGridPanelLayout
+            Align = Client
+            Size.Width = 374.000000000000000000
+            Size.Height = 40.000000000000000000
+            Size.PlatformDefault = False
+            TabOrder = 0
+            ColumnCollection = <
+              item
+                Value = 85.099140498680970000
+              end
+              item
+                Value = 14.900859501319040000
+              end>
+            ControlCollection = <
+              item
+                Column = 0
+                Control = Edit1
+                Row = 0
+              end
+              item
+                Column = 1
+                Control = Layout4
+                Row = 0
+              end>
+            RowCollection = <
+              item
+                Value = 100.000000000000000000
+              end
+              item
+                SizeStyle = Auto
+              end>
+            object Edit1: TEdit
+              Touch.InteractiveGestures = [LongTap, DoubleTap]
+              Align = Bottom
+              Anchors = []
+              TabOrder = 0
+              Position.X = 10.000000000000000000
+              Position.Y = -2.000000000000000000
+              Margins.Left = 10.000000000000000000
+              Margins.Right = 10.000000000000000000
+              Margins.Bottom = 10.000000000000000000
+              Size.Width = 298.270782470703100000
+              Size.Height = 32.000000000000000000
+              Size.PlatformDefault = False
+            end
+            object Layout4: TLayout
+              Align = Client
+              Size.Width = 55.729217529296880000
+              Size.Height = 40.000000000000000000
+              Size.PlatformDefault = False
+              TabOrder = 1
+              object SpeedButton1: TSpeedButton
+                Align = Client
+                Size.Width = 32.000000000000000000
+                Size.Height = 32.000000000000000000
+                Size.PlatformDefault = False
+                StyleLookup = 'searcheditbutton'
+                Text = 'SpeedButton1'
+              end
+            end
+          end
+        end
+      end
+    end
+  end
+end

@@ -1,0 +1,53 @@
+inherited frmVendas: TfrmVendas
+  Caption = 'frmVendas'
+  ClientWidth = 330
+  DesignerMasterStyle = 3
+  inherited tbControle: TToolBar
+    Size.Width = 330.000000000000000000
+    object lblTela: TLabel
+      Align = Contents
+      StyledSettings = [Family, Size, Style]
+      Size.Width = 330.000000000000000000
+      Size.Height = 48.000000000000000000
+      Size.PlatformDefault = False
+      TextSettings.FontColor = claWhite
+      TextSettings.HorzAlign = Center
+      Text = 'VENDAS'
+      TabOrder = 0
+    end
+  end
+  inherited ltGeral: TLayout
+    Size.Width = 330.000000000000000000
+    object ListBox1: TListBox
+      Align = Client
+      Size.Width = 330.000000000000000000
+      Size.Height = 405.000000000000000000
+      Size.PlatformDefault = False
+      TabOrder = 0
+      DisableFocusEffect = True
+      Images = DataModule1.imagens
+      DefaultItemStyles.ItemStyle = ''
+      DefaultItemStyles.GroupHeaderStyle = ''
+      DefaultItemStyles.GroupFooterStyle = ''
+      Viewport.Width = 330.000000000000000000
+      Viewport.Height = 405.000000000000000000
+      object lbiPedidos: TListBoxItem
+        ItemData.Accessory = aMore
+        ImageIndex = 4
+        TabOrder = 0
+        Text = 'Pedido de venda'
+        OnClick = lbiPedidosClick
+      end
+      object lbiOrcamentos: TListBoxItem
+        Position.Y = 44.000000000000000000
+        TabOrder = 1
+        Text = 'lbiOrcamentos'
+      end
+      object lbiEmissorNFCe: TListBoxItem
+        Position.Y = 88.000000000000000000
+        TabOrder = 2
+        Text = 'lbiEmissorNFCe'
+      end
+    end
+  end
+end
